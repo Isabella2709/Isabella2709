@@ -14,7 +14,19 @@
 </div>
 
 <div style= "display: inline+block"><br/>
-  <img align= "center" alt="HTML" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img align= "center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+</div>
+
+<div style= "display: inline+block"><br/>
+  <img align= "center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+</div>
+
+<div style= "display: inline+block"><br/>
+  <img align= "center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+</div>
+
+<div style= "display: inline+block"><br/>
+  <img align= "center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
 </div>
 
 
